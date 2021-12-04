@@ -110,7 +110,7 @@ while(rs3.next()){
 			 	<span>자세히 보기</span>
 			 </button>
 		</div>
-		<img src="./upload/${o.file}" alt=""/>
+		<img src="./upload/${o.file}" alt="">
 	</div>
 </div>
 </c:forEach>
