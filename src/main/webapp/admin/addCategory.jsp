@@ -21,8 +21,8 @@
 </head>
 <body>
 <div class="wrap">
+<div style="margin:40px 0">
 <form action="../AddCategoryServlet" method="post">
-	<div id="txt-wrap">
 	<div class="txt-inner">
 		<div class="txt-style">
 			<strong>메인 카테고리: </strong>
@@ -45,9 +45,9 @@
 			<input type="text" name="sub4">
 		</div>
 	</div>
-	</div>
 	<input type="submit" class="submit" value="저장">
 </form>
+</div>
 </div>
 </body>
 </html>

@@ -24,7 +24,7 @@
 </head>
 <body>
 <div class="wrap">
-<div style="margin:45px 0;padding:0 100px">
+<div style="margin:45px 0">
 <div class="clearfix" style="background:#f5f5f5;padding:10px 0;font-size:0.8em">
 <form>
 <div style="float:left;">
