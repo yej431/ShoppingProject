@@ -51,7 +51,6 @@ while(rs.next()){
 <body>
 <div class="wrap">
 <div style="margin:40px 0">
-<div style="padding:0 100px">
 <form action="../AddProductServlet" method="post" enctype="multipart/form-data">
 <div id="add-product">
 	<div class="txt-style">
@@ -96,8 +95,6 @@ while(rs.next()){
 </form>
 </div>
 </div>
-</div>
-
 <script>
 $(document).ready(function(){
 	$("#main").on("change", function(){
