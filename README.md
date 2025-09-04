@@ -5,7 +5,7 @@ Java + Servlet/JSP 기반으로 웹 UI와 백엔드를 구성해, 사용자가 �
 
 ---
 
-##  기능 (예시)
+##  기능
 - 사용자: 회원가입, 로그인/로그아웃
 - 상품 목록 보기, 상품 상세 페이지
 - 장바구니에 상품 담기 / 수량 변경 /장바구니 삭제
@@ -16,10 +16,10 @@ Java + Servlet/JSP 기반으로 웹 UI와 백엔드를 구성해, 사용자가 �
 
 ##  요구사항 & 개발 환경
 - Java JDK 8 이상
-- Apache Tomcat (예: v8.5 이상)
+- Apache Tomcat (v8.5 이상)
 - Eclipse IDE 사용 가능
-- Maven (예: `pom.xml` 존재 시)
-- 데이터베이스(MySQL 등) 사용 여부 확인 필요
+- Maven
+- 데이터베이스(MySQL)
 
 ---
 
