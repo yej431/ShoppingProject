@@ -1,6 +1,6 @@
 # ShoppingProject
 
-Simple **Java 기반 쇼핑 애플리케이션**입니다.  
+**Java 기반 쇼핑 애플리케이션**입니다.  
 Java + Servlet/JSP 기반으로 웹 UI와 백엔드를 구성해, 사용자가 상품을 보고 장바구니에 담아 주문할 수 있는 기능을 제공합니다.
 
 ---
@@ -17,7 +17,7 @@ Java + Servlet/JSP 기반으로 웹 UI와 백엔드를 구성해, 사용자가 �
 ##  요구사항 & 개발 환경
 - Java JDK 8 이상
 - Apache Tomcat (v8.5 이상)
-- Eclipse IDE 사용 가능
+- Eclipse IDE 사용
 - Maven
 - 데이터베이스(MySQL)
 
